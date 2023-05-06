@@ -44,9 +44,12 @@
 2. This Python project is simply an automator with requests for a website I do not own.
 3. This script was made for educational purposes
 4. I am not responsible for your actions
+5. This post from : <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">Flowsidee</a>
 
 ---------------------------------------
 ### Main Issues & Problems
 
 * Struggling to install Python or PIP? Watch this video <a href="https://youtu.be/dYfKJMPNMDw?t=52">here</a>. 
 * 502 Bad Gateway Error: `Zefoy.com blocked it either because of a VPN/proxy or maybe your country is blocked.`
+
+
