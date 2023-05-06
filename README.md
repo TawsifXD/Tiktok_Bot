@@ -11,7 +11,7 @@
     TikTok automator using zefoy.com for <b>followers, views, likes, shares and more</b>
     <br />
     <br />
-    <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT/issues">Report Bugs</a>
+    <a href="https://github.com/TawsifXD/Tiktok_Bot/issues">Report Bugs</a>
     
   </p>
 </div>
